@@ -26,7 +26,7 @@
         font-family: "Arial";
         font-style: normal;
         font-weight: 200;
-        font-size: 38px;
+        font-size: 50px;
         letter-spacing: 0.285em;
         line-height: 60px;
         color: #000000;
