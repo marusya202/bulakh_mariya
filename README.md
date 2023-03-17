@@ -97,7 +97,7 @@
         <div class="tag">logo</div>
         <div class="tag">merch</div>
       </div>
-      <div class <div style="background-color: #f2f2f2; padding: 20px;">
+      <div style="background-color: #f2f2f2; padding: 20px;">
         <p
           style="
             font-family: 'Arial';
@@ -126,6 +126,5 @@
           Карточка создана с помощью – ChatGPT
         </p>
       </div>
-    </div>
   </body>
 </html>
